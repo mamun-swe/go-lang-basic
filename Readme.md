@@ -5,7 +5,7 @@
 
 #### Run application
 ```yaml
-[Application directory] go run index.go
+    go run index.go
 
 ```
 
